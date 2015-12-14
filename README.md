@@ -1,6 +1,6 @@
 # laravel-gulp-stylus
 
 ## Install
-- ```bash npm i -g gulp```
-- ```bash npm i --dev```
-- ```bash gulp```
+- ```npm i -g gulp```
+- ```npm i --dev```
+- ```gulp```
