@@ -1,0 +1,12 @@
+h1 {
+  color: #008000;
+  display: block;
+}
+
+body {
+  font: 12px Helvetica, Arial, sans-serif;
+  color: #f00;
+  -webkit-transition: top 1s ease-out 0.5s;
+  transition: top 1s ease-out 0.5s;
+  border-radius: 10px;
+}
